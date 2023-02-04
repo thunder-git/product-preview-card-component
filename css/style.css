@@ -1,0 +1,58 @@
+body {
+    background-color: #F2EAE2;
+}
+
+h1 {
+    font-family: 'Fraunces';
+    font-weight: bold;
+    font-size: 32px;
+    color: #1C232B;
+    line-height: 32px;
+}
+
+h4 {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 12px;
+    color: #6C7289;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 14px;
+    color: #6C7289;
+}
+
+#new-price {
+    font-family: 'Fraunces';
+    font-weight: bold;
+    font-size: 32px;
+    color: #3D8168;
+    line-height: 32px;
+}
+
+#old-price {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 13px;
+    color: #6C7289;
+    text-decoration: line-through;
+    margin: auto;
+}
+
+.card {
+    border-width: 0 !important;
+}
+
+#card-body-text {
+    margin: 20px 10%;
+}
+
+.btn-primary {
+    background-color: #3D8168 !important;
+    border-width: 0 !important;
+    width: 100%;
+}
